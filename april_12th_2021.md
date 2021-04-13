@@ -1,8 +1,8 @@
 ##### The knowledge that I learned for April 12th, 2021.
 
-This is inherit from [The twelve-factor app](https://12factor.net/)
-
 # The twelve-factor application
+
+This is inherit from [The twelve-factor app](https://12factor.net/), [Log formatting](https://www.scalyr.com/blog/log-formatting-best-practices-readable/)
 
 ---
 
