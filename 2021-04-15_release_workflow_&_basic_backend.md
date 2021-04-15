@@ -90,4 +90,4 @@ services:
 
 **Result**
 
-![Golang server built by Docker](/img/2021-04-15_golang server with Docker.png)
+![Golang server built by Docker](img/2021-04-15_golang_server_with_docker.png)
